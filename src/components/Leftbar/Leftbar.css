@@ -1,0 +1,74 @@
+.divcontainer{
+    flex:2;
+    height: calc(100vh-50px);
+    padding: 5px;
+    margin: 10px;
+  
+
+}
+.sidebarWrapper{
+    align-items: center;
+
+
+    display: flex;
+    gap: 20px;
+    
+    margin: 20px;
+
+}
+.sidebarListItem{
+    align-items: center;
+    display: flex;
+    margin-bottom: 20px;
+    
+    font-size: larger;
+ 
+
+
+}
+.sidebarIcon{
+    margin-right: 15px;
+
+}
+.sidebarList{
+    
+    gap: 10px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+ text-decoration: none;
+
+ 
+ 
+}
+.sidebarListItemText{
+
+
+}
+button{
+    
+}
+.leftbarbutton{
+ 
+
+}
+.sidebarFriendImg{
+    width: 50px;
+    border-radius: 50%;
+    height: 50px;
+}
+.sidebarFriend{
+    margin: 10px;
+    background-color: gold;
+
+}
+.sidebarFriendList{
+    list-style: none;
+    text-decoration:none ;
+}
+.sidebarFriendName{
+    margin-right: 10px;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
